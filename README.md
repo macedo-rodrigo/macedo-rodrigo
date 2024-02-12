@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macedo-rodrigo
-- 👀 I’m a junior full-stack developer looking for opportunities!
+- 👀 I’m a Junior Full Stack Developer!
 - 🌱 I’m currently improving my ReactJs skills and learning NodeJs.
 - 💞️ I’m looking to collaborate on projects for beginners like me.
 - 📫 How to reach me: rodrigoalvesdemacedo@live.com or @rodri_36957 on Discord
