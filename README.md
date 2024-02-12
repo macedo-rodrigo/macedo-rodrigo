@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macedo-rodrigo
-- 👀 I’m interested in becoming a full-stack developer!
-- 🌱 I’m currently learning CSS and JavaScript.
+- 👀 I’m a junior full-stack developer looking for opportunities!
+- 🌱 I’m currently improving my ReactJs skills and learning NodeJs.
 - 💞️ I’m looking to collaborate on projects for beginners like me.
 - 📫 How to reach me: rodrigoalvesdemacedo@live.com or @rodri_36957 on Discord
 
