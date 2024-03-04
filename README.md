@@ -1,6 +1,6 @@
 👋 Hi there!
 
-I’m Rodrigo, a Junior Front End Web Developer currently enrolled in a Master's program in Full Stack Web Development at The Valley Business School in Spain. I'm also looking for my first job opportunity.
+I’m Rodrigo, a Junior Full Stack Web Developer currently enrolled in a Master's program in Full Stack Web Development at The Valley Business School in Spain. I'm also looking for my first job opportunity.
 
 I'm focused on honing my skills in ReactJS for front-end development and delving deeper into Node.js for back-end development.
 
